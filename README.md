@@ -34,6 +34,6 @@ Finally, you can access the Jupyter Notebook locally using the link provided by 
 
 `http://127.0.0.1:port/?token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
 
-The Jupyter notebook is now running on the cluster, and can access it locally. 
+The Jupyter notebook is now running on the cluster, and can be accessed locally. 
 
 Note that you can also setup a bash script to do this automatically if desired, but the assumption is that if you are using a Notebook, you want an interactive session.
