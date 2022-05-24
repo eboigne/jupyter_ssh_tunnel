@@ -24,7 +24,7 @@ and activate local environments (make sure to have jupyter installed):
 
 Run the downloaded script to create the ssh tunnel:
 
-`./remote_jupyter_notebook.sh`&
+`./remote_jupyter_notebook.sh &`
 
 In another local shell (not on cluster), run the bash line output by the above script. It reads something like:
 
